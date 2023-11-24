@@ -1,0 +1,7 @@
+! name: reddit
+! description: Easy reddit  
+! public: false
+! author: DN
+
+$discard
+$boost,site=reddit.com

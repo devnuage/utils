@@ -1,9 +1,0 @@
-! name: shopping
-! description: Easy shopping  
-! public: false
-! author: DN
-
-$discard
-$boost,site=amazon.fr
-$boost,site=amazon.de
-$boost,site=reichelt.com
